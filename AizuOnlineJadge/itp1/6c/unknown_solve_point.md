@@ -1,4 +1,4 @@
-*** *コード内容は"AizuOnlineJadge/itp1/6c/split_official_house.rb"参照 ***
+****コード内容は"AizuOnlineJadge/itp1/6c/split_official_house.rb"参照***
 
 # 不明点
 多次元配列の要素変更時に、指定していない他の配列の要素まで変わってしまう
