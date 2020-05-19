@@ -15,4 +15,4 @@
 # アップロード一覧
 |Site|Production|Link|
 |----|----------|----|
-|Aizu|ITP 1||
+|Aizu|ITP 1|[Official House](https://github.com/ItsukiIshizuka/ruby_practice/tree/master/AizuOnlineJadge/itp1/6c)|
